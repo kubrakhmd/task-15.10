@@ -1,0 +1,15 @@
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\task 15.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\task 15.10.AssemblyInfoInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\task 15.10.AssemblyInfo.cs
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\task 15.10.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\task 15.10.sourcelink.json
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\bin\Debug\net8.0\task 15.10.exe
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\bin\Debug\net8.0\task 15.10.deps.json
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\bin\Debug\net8.0\task 15.10.runtimeconfig.json
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\bin\Debug\net8.0\task 15.10.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\bin\Debug\net8.0\task 15.10.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\task 15.10.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\refint\task 15.10.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\task 15.10.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\task 15.10.genruntimeconfig.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\task 15.10\task 15.10\task 15.10\obj\Debug\net8.0\ref\task 15.10.dll
